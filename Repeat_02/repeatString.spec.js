@@ -1,4 +1,4 @@
-const repeatString = require('Repeat_02/repeatString.js')
+const repeatString = require('C:\Users\colen\Downloads\Coding\Intro_Odin_Project-main\Arrays\Repeat_02\repeatString.js')
 
 describe('repeatString', () => {
   test('repeats the string', () => {
